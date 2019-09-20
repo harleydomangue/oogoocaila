@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aeyoozeep.hotspork.com/sitemap.xml
